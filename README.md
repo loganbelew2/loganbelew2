@@ -4,6 +4,6 @@
 - 🏠 I like to build things and solve problems
 - 👨‍🎓 I'm currently learning next.js and UI/UX
 - 👯 I’m looking to collaborate on projects
-- Feel free to reach out to me on LinkedIN
+- Feel free to reach out to me on LinkedIn
 
 
