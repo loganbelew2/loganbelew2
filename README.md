@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan</h1>
 <h3 align="center">A Full-Stack software developer</h3>
 
-- 🔭 I’m currently working on **Top-Tour**
+- 🔭 I’m currently working on **TechPath Pro**
 
 - 🌱 I’m currently learning **AWS services and digital product design**
 
