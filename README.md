@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TechPath Pro**
 
-- 🌱 I’m currently learning **AWS services and digital product design**
+- 🌱 I’m currently learning **Everything that is used in the software dev lifecycle**
 
 - 👯 I’m looking to collaborate on **projects**
 
