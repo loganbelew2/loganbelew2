@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Logan</h1>
 <h3 align="center">A Full-Stack software developer</h3>
 
-- 🔭 I’m currently working on **TechPath Pro**
+- 🔭 I’m currently working on **Nashville Car Detail**
 
-- 🌱 I’m currently learning **Everything that is used in the software dev lifecycle**
-
-- 👯 I’m looking to collaborate on **projects**
+- 🌱 I’m currently learning **UI/UX design with SEO and effective website copy and layout to drive sales**
 
 - 📫 How to reach me **loganbelew2@gmail.com**
 
